@@ -22,8 +22,11 @@ Provided actionable insights based on model outputs, suggesting key factors infl
 ## Technologies Used:
 
 -> Python (Pandas, NumPy, Scikit-learn)
+
 -> Logistic Regression, Decision Trees
+
 -> Data visualization (Matplotlib, Seaborn)
+
 -> Model Evaluation Metrics (Accuracy, Precision, Recall, F1 Score)
 
 ## Outcome: 
