@@ -21,10 +21,10 @@ Provided actionable insights based on model outputs, suggesting key factors infl
 
 ## Technologies Used:
 
-Python (Pandas, NumPy, Scikit-learn)
-Logistic Regression, Decision Trees
-Data visualization (Matplotlib, Seaborn)
-Model Evaluation Metrics (Accuracy, Precision, Recall, F1 Score)
+-> Python (Pandas, NumPy, Scikit-learn)
+-> Logistic Regression, Decision Trees
+-> Data visualization (Matplotlib, Seaborn)
+-> Model Evaluation Metrics (Accuracy, Precision, Recall, F1 Score)
 
 ## Outcome: 
 Successfully developed a predictive model with high accuracy in identifying users likely to click on ads, aiding in better targeting and resource allocation for digital marketing campaigns.
